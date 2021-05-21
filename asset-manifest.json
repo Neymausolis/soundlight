@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/soundlight/static/css/main.9b321c6f.chunk.css",
+    "main.js": "/soundlight/static/js/main.33f62973.chunk.js",
+    "main.js.map": "/soundlight/static/js/main.33f62973.chunk.js.map",
+    "runtime-main.js": "/soundlight/static/js/runtime-main.66a03d98.js",
+    "runtime-main.js.map": "/soundlight/static/js/runtime-main.66a03d98.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/soundlight/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.97987dd8.chunk.js": "/soundlight/static/js/2.97987dd8.chunk.js",
+    "static/js/2.97987dd8.chunk.js.map": "/soundlight/static/js/2.97987dd8.chunk.js.map",
+    "index.html": "/soundlight/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/soundlight/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.9b321c6f.chunk.css.map": "/soundlight/static/css/main.9b321c6f.chunk.css.map",
+    "static/js/2.97987dd8.chunk.js.LICENSE.txt": "/soundlight/static/js/2.97987dd8.chunk.js.LICENSE.txt",
+    "static/media/gn2.b06b3716.jpeg": "/soundlight/static/media/gn2.b06b3716.jpeg",
+    "static/media/gn3.b5fbe000.jpeg": "/soundlight/static/media/gn3.b5fbe000.jpeg",
+    "static/media/gn4.8c3aaa07.jpeg": "/soundlight/static/media/gn4.8c3aaa07.jpeg",
+    "static/media/gn5.4c4b135a.jpeg": "/soundlight/static/media/gn5.4c4b135a.jpeg",
+    "static/media/gn6.74c8c0a9.jpeg": "/soundlight/static/media/gn6.74c8c0a9.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66a03d98.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.97987dd8.chunk.js",
+    "static/css/main.9b321c6f.chunk.css",
+    "static/js/main.33f62973.chunk.js"
+  ]
+}
